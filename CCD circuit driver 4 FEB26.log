@@ -1,0 +1,6 @@
+Questionable use of curly braces in ".model sir870adp vdmos(rg=3 vto=2.9 rd=3.2m rs=1.5m rb={m} kp=100 mtriode=1.85 cgdmax=1.4n cgdmin=70p cgs=2.9n cjo=3.6n m=.4 a=.7 vj=.7 lambda=20m is=3p ksubthres=.08 mfg=siliconix vds=100 ron=5.5m qg=53.5n)"
+    Error: undefined symbol in: "[m]"
+Circuit: * C:\Users\dhaff\Pictures\LTspc CCD circuit\CCD circuit driver 4 FEB26.asc
+
+Fatal Error: Unknown subcircuit called in:
+   xs1 nc_78 nc_79
