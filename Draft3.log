@@ -1,0 +1,4 @@
+Circuit: * C:\Users\dhaff\Pictures\LTspc CCD circuit\Draft3.asc
+
+A1: all pins shorted together -- ignoring.
+Fatal Error: This circuit does not contain a node other than node "0" (GND)

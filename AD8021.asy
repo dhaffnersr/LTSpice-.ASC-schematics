@@ -1,0 +1,41 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -48 46 -48 32
+LINE Normal -48 -45 -48 -32
+LINE Normal 16 87 16 64
+LINE Normal -16 -69 -16 -48
+LINE Normal 32 -32 16 -32
+LINE Normal 32 32 14 32
+LINE Normal -16 65 -16 48
+LINE Normal -96 0 -113 0
+LINE Normal 32 80 32 -80
+LINE Normal -96 0 32 -80
+LINE Normal 32 80 -96 0
+TEXT -7 -18 Center 2 AD8021
+SYMATTR Prefix AD
+SYMATTR SpiceModel opamp
+SYMATTR Description AD8021
+PIN 16 64 BOTTOM 8
+PINATTR PinName REF
+PINATTR SpiceOrder 1
+PIN 32 -32 RIGHT 8
+PINATTR PinName -
+PINATTR SpiceOrder 2
+PIN 32 32 RIGHT 8
+PINATTR PinName +
+PINATTR SpiceOrder 3
+PIN -48 32 BOTTOM 8
+PINATTR PinName V -
+PINATTR SpiceOrder 4
+PIN -16 48 BOTTOM 8
+PINATTR PinName C
+PINATTR SpiceOrder 5
+PIN -96 0 LEFT 8
+PINATTR PinName Vout
+PINATTR SpiceOrder 6
+PIN -48 -32 TOP 8
+PINATTR PinName V+
+PINATTR SpiceOrder 7
+PIN -16 -48 TOP 8
+PINATTR PinName DIS
+PINATTR SpiceOrder 8
